@@ -115,4 +115,4 @@ Hi there! I’m **Sadam-Mohamed-Hagar**, a Data Analyst & Data Engineering profe
 I enjoy exploring the world of Data Analytics, Business Intelligence, Data Engineering, Power BI, SQL, Python and Alteryx, while continuously learning and building real-world projects.
 Let's stay in touch! Feel free to connect with me on the following platform:
 
-[![LinkedIn](www.linkedin.com/in/sadamhagar)]
+[www.linkedin.com/in/sadamhagar](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6%2BcrL7XLQCaD%2FiQLngd0bw%3D%3D)
